@@ -1,1 +1,1 @@
-scripe shows the working directory
+Display the contents list of your current directory
